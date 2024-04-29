@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+button, input, select {
+  padding-block: 0;
+  padding-inline: 0;
+  color: initial;
+  background-color: initial;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: initial;
+}
+
+h1, h2, h3 {
+  font-size: initial;
+}
